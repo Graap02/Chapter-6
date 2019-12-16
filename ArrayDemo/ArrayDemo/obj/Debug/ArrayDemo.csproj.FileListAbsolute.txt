@@ -1,0 +1,7 @@
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csprojAssemblyReference.cache
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\jg153184\Desktop\C# Projects\Chapter 4\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb
